@@ -1,0 +1,17 @@
+{
+  "name": "json-to-ts-cli",
+  "version": "0.1.0",
+  "description": "",
+  "bin": "index.js",
+  "main": "index.js",
+  "dependencies": {
+    "json-to-ts": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Perez Alvarez <danielpza@protonmail.com> (https://github.com/danielpza)",
+  "license": "MIT"
+}
